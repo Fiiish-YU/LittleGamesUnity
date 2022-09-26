@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 7329a9bfff9bcf24a888cfd483c17b00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -679668473013134973
+    second: wuziqi_0
+  - first:
+      213: 2987245842437984624
+    second: wuziqi_1
+  - first:
+      213: 4421558634883929358
+    second: wuziqi_2
+  - first:
+      213: 2040150285069444555
+    second: wuziqi_3
+  - first:
+      213: -2251466596419491944
+    second: wuziqi_4
+  - first:
+      213: 6857598422763281215
+    second: wuziqi_5
+  - first:
+      213: 3898702686572445462
+    second: wuziqi_6
+  - first:
+      213: -7003517108464636180
+    second: wuziqi_7
+  - first:
+      213: -3488829546521822386
+    second: wuziqi_8
+  - first:
+      213: 2787043795907530577
+    second: wuziqi_9
+  - first:
+      213: 3339945738808081899
+    second: wuziqi_10
+  - first:
+      213: -2386263478719399281
+    second: wuziqi_11
+  - first:
+      213: 993163199291664116
+    second: wuziqi_12
+  - first:
+      213: -6893868266876594696
+    second: wuziqi_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wuziqi_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1270
+        width: 410
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891505ff155196f0800000000000000
+      internalID: -679668473013134973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1076
+        width: 291
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071574f3444d47920800000000000000
+      internalID: 2987245842437984624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 193
+        width: 273
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0551d9e6288c5d30800000000000000
+      internalID: 4421558634883929358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 192
+        width: 278
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e9f500e1105c10800000000000000
+      internalID: 2040150285069444555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_4
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 191
+        width: 247
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89722c03f0f21c0e0800000000000000
+      internalID: -2251466596419491944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_5
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 190
+        width: 252
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b9511be651b2f50800000000000000
+      internalID: 6857598422763281215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 813
+        width: 289
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ff20eef69fa1630800000000000000
+      internalID: 3898702686572445462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 841
+        width: 888
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee289bcb428ece90800000000000000
+      internalID: -7003517108464636180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_8
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1114
+        width: 142
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bfda51300359fc0800000000000000
+      internalID: -3488829546521822386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 942
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f4684e0919da620800000000000000
+      internalID: 2787043795907530577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 639
+        width: 414
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3cb224fed95e20800000000000000
+      internalID: 3339945738808081899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 743
+        width: 178
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a3172520a42eed0800000000000000
+      internalID: -2386263478719399281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_12
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 748
+        width: 324
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f625c1faac68cd00800000000000000
+      internalID: 993163199291664116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuziqi_13
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 613
+        width: 286
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f59b78265f0450a0800000000000000
+      internalID: -6893868266876594696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wuziqi_2: 4421558634883929358
+      wuziqi_11: -2386263478719399281
+      wuziqi_6: 3898702686572445462
+      wuziqi_7: -7003517108464636180
+      wuziqi_8: -3488829546521822386
+      wuziqi_1: 2987245842437984624
+      wuziqi_9: 2787043795907530577
+      wuziqi_0: -679668473013134973
+      wuziqi_4: -2251466596419491944
+      wuziqi_13: -6893868266876594696
+      wuziqi_5: 6857598422763281215
+      wuziqi_12: 993163199291664116
+      wuziqi_3: 2040150285069444555
+      wuziqi_10: 3339945738808081899
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
